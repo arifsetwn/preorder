@@ -1,1 +1,1 @@
-pre order kaos tlabshop [googele doc]
+pre order kaos tlabshop [google doc]

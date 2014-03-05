@@ -1,3 +1,9 @@
+@font-face {
+  font-family: Acklin;
+  src: url('Acklin.ttf');
+}
+
+a.acklin {color:#000000;  font-family: Acklin, Scoder Hand, Tahoma, Arial;}
 img.header {
 	display: block;
     margin-left: auto;
